@@ -16,7 +16,7 @@
 ## 安装
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Yaohui2000/edu-knowledge-graph.git
 cd pdf-agent
 pip install -r requirements.txt
 ```
