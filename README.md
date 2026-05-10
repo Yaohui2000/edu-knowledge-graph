@@ -17,7 +17,7 @@
 
 ```bash
 git clone https://github.com/Yaohui2000/edu-knowledge-graph.git
-cd pdf-agent
+cd edu-knowledge-graph
 pip install -r requirements.txt
 ```
 
