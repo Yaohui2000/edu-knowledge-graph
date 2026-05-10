@@ -1,0 +1,21 @@
+# API Key 和本地配置
+.config.json
+
+# 上传的教材和生成的输出（体积大，含用户数据）
+data/
+*.pdf
+*.md
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+.claude/
