@@ -77,7 +77,7 @@ gunicorn -w 2 -b 0.0.0.0:5000 web:app
 ## 项目结构
 
 ```
-pdf-agent/
+edu-knowledge-graph/
 ├── web.py              # Flask 主入口
 ├── main.py             # 命令行入口
 ├── config.py           # 配置管理（支持环境变量）
